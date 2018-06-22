@@ -1,5 +1,5 @@
 
----
+
 # PROJECT PROPOSAL
 
 * [MINIST Handwritten Digits](http://yann.lecun.com/exdb/mnist/index.html)
