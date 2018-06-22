@@ -1,4 +1,5 @@
 
+---
 # PROJECT PROPOSAL
 
 * [MINIST Handwritten Digits](http://yann.lecun.com/exdb/mnist/index.html)
@@ -6,7 +7,7 @@
 * [Image Recognition for Fashion](http://www.primaryobjects.com/2017/10/23/image-recognition-for-fashion-with-machine-learning)
 
 * [Bayesian GAN](https://arxiv.org/pdf/1705.09558.pdf)  
---- 
+ 
 
 # STUDY MATERIAL
 
